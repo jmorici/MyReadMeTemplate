@@ -1,4 +1,5 @@
 ### Synopsis
+============
 + Overview OR short description of your project.
 ### Built With
 + List of technology/tools you used to develop the project
