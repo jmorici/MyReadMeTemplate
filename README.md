@@ -1,17 +1,17 @@
-### Synopsis
+## Synopsis
 ============
 + Overview OR short description of your project.
-### Built With
+## Built With
 + List of technology/tools you used to develop the project
-### Resources
+## Resources
 + External resources you used for the project
-### API Reference
+## API Reference
 + API reference if you used any.
-### Contributors
+## Contributors
 + Who worked on the project
-### License
+## License
 + Mention if the project is under any sort of License
-### Acknowledgments
+## Acknowledgments
 + Write references of site you used
 + i.e [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 + and [mastering-markdown](https://guides.github.com/features/mastering-markdown/)
