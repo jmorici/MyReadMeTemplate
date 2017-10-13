@@ -12,5 +12,7 @@
 + Mention if the project is under any sort of License
 ### Acknowledgments
 + Write references of site you used
++ i.e [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
++ and [mastering-markdown](https://guides.github.com/features/mastering-markdown/)
 + Mention book or people who helped you
 + Inspiration
